@@ -6,8 +6,7 @@ Scaling WordPress with the power of [Next.js](https://nextjs.org/) and the stati
 - [🚀 Getting Started](#-getting-started)
 - [🛠 Configuring Your Project](#-configuring-your-project)
 - [🔌 Plugins](#-plugins)
-- [💝 Sponsors](#-sponsors)
-- [✨ Contributors](#-contributors)
+- [✨ Credits](#-credits)
 
 ## ⚡️ Quick Start
 
